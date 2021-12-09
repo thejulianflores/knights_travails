@@ -1,6 +1,9 @@
+
 # knights_travails
 
 ## A project created by TheJulianFlores in ruby
+
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@thejulianflores/KnightTraversal?embed=true"></iframe>
 
 This project will be a ruby implementation that shows the simplest possible way to get from one square to another by outputting all squares the knight will stop along the way.
 
